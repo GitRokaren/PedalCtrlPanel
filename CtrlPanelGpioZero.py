@@ -2,7 +2,6 @@ import gpiozero
 from gpiozero.output_devices import LED
 from gpiozero.input_devices import Button
 
-
 def main():
     startPin = setInPin(18)
     Pin17 = setInPin(17)
