@@ -1,7 +1,6 @@
 import gpiozero
 from gpiozero.output_devices import LED
 from gpiozero.input_devices import Button
-from time import sleep
 
 
 def main():
